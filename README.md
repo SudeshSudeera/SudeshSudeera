@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Sudesh 👋</h1>
 <h3>I'm a Full Stack Developer</h3>
 
-- I'm passionate to **learn new technologies.**
+- I'm passionate to learn new technologies.
 
-- I am always looking for **new and innovative ways to solve problems and create better products or services.**
+- I am always looking for new and innovative ways to solve problems and create better products or services.
 
 - How to reach me **sudeshsudeera@gmail.com**
 
