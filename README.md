@@ -7,7 +7,7 @@
 
 - How to reach me **sudeshsudeera@gmail.com**
 
-- Visit <a href="https://sudeshsudeera.github.io/">**https://sudeshsudeera.github.io/**</a> to see my Portfolio
+- Visit <a href="https://sudeshsudeera.me/">**https://sudeshsudeera.me/**</a> to see my Portfolio
 
 
 <h3 align="left">Languages and Tools:</h3>
